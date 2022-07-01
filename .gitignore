@@ -1,0 +1,4 @@
+# 项目排除路径
+/imooc-bilibili-api/target/
+/imooc-bilibili-dao/target/
+/imooc-bilibili-service/target/
